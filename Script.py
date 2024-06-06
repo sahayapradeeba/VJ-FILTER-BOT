@@ -206,7 +206,8 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>[{filename}](https://t.me/+4CxuGmtC0BxlMTVl)</b>
+    CAPTION = """
+<b>[{filename}](https://t.me/+4CxuGmtC0BxlMTVl)</b>
 
 <b> Size ⚙️: {file_size}</b>
 <b>•────•────────•────•
