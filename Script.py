@@ -207,9 +207,14 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>🌟Fɪʟᴇ Nᴀᴍᴇ: {file_name}</b>
 
-<b> Size ⚙️: {file_size}</b>"""
+<b>⭕Fɪʟᴇ Sɪᴢᴇ: {file_size}</b>
+<b>•────•────────•────•
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : https://tinyurl.com/request07
+🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : https://tinyurl.com/w-app06
+•────•────────•────•
+⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :@Sky_HD_Movies</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
