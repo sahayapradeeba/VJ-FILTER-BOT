@@ -206,26 +206,10 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CUSTOM_FILE_CAPTION = """
-<b>[{filename}](https://t.me/+4CxuGmtC0BxlMTVl)</b>
-
-<b>Size ⚙️: {file_size}</b>
-<b>•────•────────•────•
-🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/+1dqplhFpiDZmNzc1)
-🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://chat.whatsapp.com/Jm79XuRDvxb1Zl1oVL9OTK)
-•────•────────•────•
-⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [sᴋʏ ʟɪɴɪᴢ](https://chat.whatsapp.com/GEBXELXFCwSJjacu3lhjeK)</b>"""
     
-    CAPTION = """
-<b>[{filename}](https://t.me/+4CxuGmtC0BxlMTVl)</b>
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>
-<b>•────•────────•────•
-🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/+1dqplhFpiDZmNzc1)
-🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://chat.whatsapp.com/Jm79XuRDvxb1Zl1oVL9OTK)
-•────•────────•────•
-⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [sᴋʏ ʟɪɴɪᴢ](https://chat.whatsapp.com/GEBXELXFCwSJjacu3lhjeK)</b>"""
-
+<b> Size ⚙️: {file_size}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
